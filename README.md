@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img alt="Néll Banner" src="./assets/header.png">
-</p>
+</p> -->
 
 ## Hello! I’m Néll, a back-end-focused developer and gadget-making enthusiast. <br> Currently on my developer journey after a few years in the finance sector. I’m striving to find a career as either a back-end developer or haptics engineer. <br> I’ve always been passionate about computing technology and hope to contribute my skills to the ever-growing industry.
 
